@@ -57,6 +57,12 @@
     "color_transparent_nav_text": "#f7f7f7",
     "opacity_overlay": 16,
     "favicon": "shopify:\/\/shop_images\/Favicon.png",
+    "share_facebook": false,
+    "share_twitter": false,
+    "share_pinterest": false,
+    "share_whatsapp": false,
+    "share_email": false,
+    "share_messenger": false,
     "social_facebook_link": "https:\/\/www.facebook.com\/anodyne.dk",
     "social_instagram_link": "https:\/\/www.instagram.com\/anodyne.dk",
     "header_family": "poppins_n4",
@@ -68,6 +74,7 @@
     "base_family": "avenir_next_n4",
     "base_font_size": 15,
     "custom_quantity_breaks": true,
+    "dbtfy_agree_to_terms": true,
     "dbtfy_back_in_stock": true,
     "dbtfy_cart_countdown": true,
     "dbtfy_cart_favicon": false,
@@ -101,6 +108,10 @@
     "dbtfy_wish_list": false,
     "dbtfy_addtocart_animation_type": "pulse",
     "dbtfy_addtocart_animation_interval": 10,
+    "dbtfy_agree_text": "<p>Ich akzeptiere die Geschäftsbedingungen<\/p>",
+    "dbtfy_agree_warning_text": "<p>Sie müssen die Geschäftsbedingungen akzeptieren<\/p>",
+    "dbtfy_agree_order_title": "Ich akzeptiere die Geschäftsbedingungen",
+    "dbtfy_agree_order_yes_answer": "Ja",
     "dbtfy_back_in_stock_richtext": "<p>Benachrichtigung erhalten, sobald das Produkt auf Lager ist<\/p>",
     "dbtfy_back_in_stock_btn": "Bitte benachrichtigen",
     "dbtfy_back_in_stock_btn_animation": true,
@@ -115,7 +126,7 @@
     "dbtfy_cart_discount_label": "Rabattcode",
     "dbtfy_cart_discount_placeholder": "Geben Sie hier Ihren Rabattcode ein",
     "dbtfy_cart_discount_apply_button_label": "Rabattcode verwenden",
-    "nlify_cart_notification": "Kaufen Sie mehr, Sparen Sie mehr! Wir bieten einen Mengenrabatt auf die meisten unserer Produkte. Es ist möglich, Mengenpreise mit Rabattcodes zu kombinieren.",
+    "nlify_cart_notification": "<strong>Unsere Garantie: <\/strong>Testen Sie unsere Produkte in aller Ruhe während 30 Tagen. Der Rückversand bei Anodyne® ist kostenfrei.",
     "nlify_custom_drawer_icon": "",
     "dbtfy_cart_goal_before_text": "Noch",
     "dbtfy_cart_goal_amount": "59",
@@ -480,8 +491,8 @@
           "announcement-0": {
             "type": "message",
             "settings": {
-              "announcement_text": "<p>Deal der Woche endet in: <\/p>",
-              "announcement_counter": "Mar 13, 2022 23:59:59",
+              "announcement_text": "<p><a href=\"https:\/\/www.anodyne-shop.de\/pages\/rabattcode\" title=\"https:\/\/www.anodyne-shop.de\/pages\/rabattcode\">Erhalten Sie einen Rabattcode. <span style=\"text-decoration:underline\"><strong>Hier Klicken<\/strong><\/span><\/a><\/p>",
+              "announcement_counter": "",
               "announcemen_link": "",
               "announcement_end_text": ""
             }
@@ -1531,7 +1542,7 @@
               "dbtfy_faq_page_open": false,
               "dbtfy_faq_page_icon": "",
               "title": "Ich habe das falsche Produkt erhalten. Was mache ich?",
-              "text": "<p>Das Versandteam von Anodyne verpackt jährlich Tausende von Produkten. Leider kann es vorkommen, dass Sie ein falsches Produkt erhalten, z. B. ein Pullover-Shirt, selbst wenn Sie eines mit Reißverschluss bestellt haben. Das tut uns natürlich sehr leid. Fehler wie diese kosten uns Geld, da wir für alle Sendungen bezahlen müssen. Daher tun wir unser Bestes, um diese Fehler zu vermeiden. Wenn Sie zu den Unglücklichen gehören, denen dies passiert ist, verwenden Sie bitte das in Ihrem Paket beiliegenden Retourlabel oder laden Sie hier ein kostenfreies<br\/><br\/>Senden Sie das Produkt zusammen mit dem Rücksendeformular mit Ihrem Namen, der Bestellnummer und dem Umtauschgrund (und geben Sie einfach an, dass wir es versandt haben Ihnen das falsche Produkt) und wir werden es priorisieren, dass Ihnen ein neues Produkt ohne Verzögerung zugestellt wird.<\/p>"
+              "text": "<p>Das Versandteam von Anodyne verpackt jährlich Tausende von Produkten. Leider kann es vorkommen, dass Sie ein falsches Produkt erhalten, z. B. ein Pullover-Shirt, selbst wenn Sie eines mit Reißverschluss bestellt haben. Das tut uns natürlich sehr leid. Fehler wie diese kosten uns Geld, da wir für alle Sendungen bezahlen müssen. Daher tun wir unser Bestes, um diese Fehler zu vermeiden. Bitte nutzen Sie unser <a href=\"\/pages\/retourportal\" title=\"Umtausch- und Retourportal\">Retourportal<\/a>, um diese unglückliche Feder zu melden. <\/p>"
             }
           },
           "92421958-58c0-4bfa-aaa9-af887f44fd85": {
@@ -1583,7 +1594,7 @@
               "dbtfy_faq_page_open": false,
               "dbtfy_faq_page_icon": "",
               "title": "Muss ich bezahlen, wenn ich innerhalb meiner 30-tägigen Testphase etwas tauschen möchte?",
-              "text": "<p>Der Rückversand Ihres Produktes ist kostenlos. Haben Sie Versand mit DHL gewählt, liegt dem Paket ein kostenfreies Retourlabel bei. In den meisten Fällen werden nur Umtausch in eine andere Größe für dasselbe Produkt vorgenommen und es sind keine Rückerstattungen oder zusätzliche Zahlungen erforderlich. Wenn Sie gegen ein billigeres Produkt tauschen, erstatten wir Ihnen die Differenz. Wenn Sie Ihr Produkt gegen ein teureres Produkt eintauschen möchten, müssen Sie Ihr aktuelles Produkt für eine Rückerstattung zurücksenden. Dann können Sie das gewünschte Produkt auf unserer Website bestellen.<\/p>"
+              "text": "<p>Der Rückversand Ihres Produktes ist kostenlos. Bitte nutzen Sie unser <a href=\"\/pages\/retourportal\" title=\"Umtausch- und Retourportal\">Retourportal<\/a>, um diese unglückliche Feder zu melden. In den meisten Fällen werden nur Umtausch in eine andere Größe für dasselbe Produkt vorgenommen und es sind keine Rückerstattungen oder zusätzliche Zahlungen erforderlich. Wenn Sie gegen ein billigeres Produkt tauschen, erstatten wir Ihnen die Differenz. Wenn Sie Ihr Produkt gegen ein teureres Produkt eintauschen möchten, müssen Sie Ihr aktuelles Produkt für eine Rückerstattung zurücksenden. Dann können Sie das gewünschte Produkt auf unserer Website bestellen.<\/p>"
             }
           },
           "c014a4e2-1ffc-4f54-bb11-44c8e1fbb12a": {
@@ -1592,7 +1603,7 @@
               "dbtfy_faq_page_open": false,
               "dbtfy_faq_page_icon": "",
               "title": "Wie kann ich meine Bestellung zurücksenden?",
-              "text": "<p>Füllen Sie auf dem Rücksendeformular Ihren Namen, die Bestellnummer und die Informationen aus, dass Sie das Produkt zur Erstattung zurücksenden oder das Produkt gegen eine andere Größe oder ein anderes Produkt austauschen möchten. <br\/><br\/>Haben Sie Versand mit DHL gewählt, liegt dem Paket ein kostenfreies Retourlabel bei.<\/p>"
+              "text": "<p>Bitte nutzen Sie unser <a href=\"\/pages\/retourportal\" title=\"Umtausch- und Retourportal\">Retourportal<\/a>, um diese unglückliche Feder zu melden.<\/p>"
             }
           },
           "527508ee-3b97-40be-bceb-5acc82d4fa51": {
