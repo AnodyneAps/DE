@@ -1028,7 +1028,7 @@
               "icon": "format_quote",
               "quote": "<p><em>Das Shirt sitzt gut und man merkt die Unterstützung durch das Material.<\/em><\/p>",
               "stars_pic": "shopify:\/\/shop_images\/trustedshops_128x32_c52276c3-c0d3-4138-b817-0fb1bf505011.png",
-              "quotes_link": "https:\/\/www.trustedshops.de\/bewertung\/info_XF28D23210E3733905016407D4C407253.html?page=2",
+              "quotes_link": "https:\/\/www.trustedshops.ch\/bewertung\/info_XE571F261ADE9439296991B18509E2D95.html",
               "author": "Angela E."
             }
           },
@@ -1039,7 +1039,7 @@
               "icon": "format_quote",
               "quote": "<p><em>Bin in jeglicher Hinsicht zufrieden. Schnelle Lieferung und prima Qualität<\/em><\/p>",
               "stars_pic": "shopify:\/\/shop_images\/trustedshops_128x32_c52276c3-c0d3-4138-b817-0fb1bf505011.png",
-              "quotes_link": "https:\/\/www.trustedshops.de\/bewertung\/info_XF28D23210E3733905016407D4C407253.html",
+              "quotes_link": "https:\/\/www.trustedshops.ch\/bewertung\/info_XE571F261ADE9439296991B18509E2D95.html",
               "author": "Thomas S."
             }
           },
@@ -1050,7 +1050,7 @@
               "icon": "format_quote",
               "quote": "<p><em>Auch bei dieser Bestellung ist alles ganz zu meinen Wünschen verlaufen.<\/em><\/p>",
               "stars_pic": "shopify:\/\/shop_images\/trustedshops_128x32_c52276c3-c0d3-4138-b817-0fb1bf505011.png",
-              "quotes_link": "https:\/\/www.trustedshops.de\/bewertung\/info_XF28D23210E3733905016407D4C407253.html",
+              "quotes_link": "https:\/\/www.trustedshops.ch\/bewertung\/info_XE571F261ADE9439296991B18509E2D95.html",
               "author": "Norbert B."
             }
           }
@@ -1180,6 +1180,8 @@
       "collection-template": {
         "type": "collection-template",
         "settings": {
+          "collection_stars": "shopify:\/\/shop_images\/tp_de_ec00b2e9-909e-4b06-971f-f2fa79186a2f.jpg",
+          "stars_url": "https:\/\/www.trustedshops.ch\/bewertung\/info_XE571F261ADE9439296991B18509E2D95.html",
           "collection_tags_enable": false,
           "collection_tags_count": false,
           "collection_multiple_tags_filtering_enable": false,
@@ -1187,11 +1189,7 @@
           "tag_selector": "button",
           "rows": "4",
           "desktop_grid": "4",
-          "mobile_grid": "2",
-          "collection_banner": "shopify:\/\/shop_images\/December-offers_DE.jpg",
-          "collection_banner_mobile": "shopify:\/\/shop_images\/December-offers_mobile_DE.jpg",
-          "collection_banner_postureshirt": "shopify:\/\/shop_images\/Desktop_DE_f82ece58-9f00-4d2d-a42c-5045951adfd5.jpg",
-          "collection_banner_mobile_postureshirt": "shopify:\/\/shop_images\/Mobile_DE_99af502b-ca97-4b9f-9ddf-d2efa1b78f19.jpg"
+          "mobile_grid": "2"
         }
       },
       "dbtfy-collection-filters": {
