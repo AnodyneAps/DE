@@ -78,7 +78,7 @@
     "dbtfy_back_in_stock": true,
     "dbtfy_cart_countdown": true,
     "dbtfy_cart_favicon": false,
-    "dbtfy_cart_discount": false,
+    "dbtfy_cart_discount": true,
     "dbtfy_collection_addtocart": false,
     "dbtfy_collection_filters": false,
     "dbtfy_color_swatches": true,
@@ -259,6 +259,7 @@
         "blocks": {
           "99ef77b6-4ab3-4e1c-8b7e-5131026870c4": {
             "type": "cart-upsell",
+            "disabled": true,
             "settings": {
               "dbtfy_cart_general_upsell_title": "Neuheit! Kaufen Sie eine tolle Geschenkbox. Nur für Posture Shirt™ oder Anodyne® BH",
               "dbtfy_cart_general_upsell_product_offer": "30x21x7cm",
@@ -491,7 +492,7 @@
           "announcement-0": {
             "type": "message",
             "settings": {
-              "announcement_text": "<p><a href=\"https:\/\/www.anodyne-shop.de\/collections\/alle-produkte\" title=\"https:\/\/www.anodyne-shop.de\/collections\/alle-produkte\"><strong>Frühlingsverkauf!<\/strong> Sparen Sie bis zu -40% <\/a><\/p>",
+              "announcement_text": "<p><a href=\"https:\/\/www.anodyne-shop.de\/pages\/rabattcode\" title=\"https:\/\/www.anodyne-shop.de\/pages\/rabattcode\">Erhalten Sie einen Rabattcode. <span style=\"text-decoration:underline\"><strong>Hier Klicken<\/strong><\/span><\/a><\/p>",
               "announcement_counter": "",
               "announcemen_link": "",
               "announcement_end_text": ""
