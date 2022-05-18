@@ -27,6 +27,7 @@
     "page_wrapper": "1248",
     "payment_icon_size": 24,
     "sale_type": "percentage",
+    "browsing_link": "shopify:\/\/collections\/alle-produkte",
     "zindex_drawer": "999",
     "cart_notes_enable": false,
     "color_announcement_bg": "#ff891d",
@@ -108,7 +109,7 @@
     "dbtfy_wish_list": false,
     "dbtfy_addtocart_animation_type": "pulse",
     "dbtfy_addtocart_animation_interval": 10,
-    "dbtfy_agree_text": "<p>Ich akzeptiere die Geschäftsbedingungen<\/p>",
+    "dbtfy_agree_text": "<p>Ich akzeptiere die <a href=\"https:\/\/www.anodyne-shop.de\/policies\/terms-of-service\" title=\"https:\/\/www.anodyne-shop.de\/policies\/terms-of-service\">Geschäftsbedingungen<\/a><\/p>",
     "dbtfy_agree_warning_text": "<p>Sie müssen die Geschäftsbedingungen akzeptieren<\/p>",
     "dbtfy_agree_order_title": "Ich akzeptiere die Geschäftsbedingungen",
     "dbtfy_agree_order_yes_answer": "Ja",
@@ -492,7 +493,7 @@
           "announcement-0": {
             "type": "message",
             "settings": {
-              "announcement_text": "<p><a href=\"https:\/\/www.anodyne-shop.de\/pages\/rabattcode\" title=\"https:\/\/www.anodyne-shop.de\/pages\/rabattcode\">Erhalten Sie einen Rabattcode. <span style=\"text-decoration:underline\"><strong>Hier Klicken<\/strong><\/span><\/a><\/p>",
+              "announcement_text": "<p><a href=\"\/collections\/alle-produkte\" title=\"Alle Produkte\"><strong>FRÜHLINGSVERKAUF! <\/strong>Bis zu <span style=\"text-decoration:underline\">-50%<\/span> Rabatt<\/a><\/p>",
               "announcement_counter": "",
               "announcemen_link": "",
               "announcement_end_text": ""
