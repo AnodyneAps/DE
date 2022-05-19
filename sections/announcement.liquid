@@ -25,11 +25,12 @@
       
               {%- unless block.settings.announcement_text == blank -%}
                 <div class="announcement-message"> 
-                  <span>{%- render 'icon' with {{block.settings.icon_selector}} -%}</span>
+                  {% unless block.settings.icon_selector == 'none' %}
+                    <span>{%- render 'icon' with {{block.settings.icon_selector}} -%}</span>
+                  {% endunless %}
                 {{ block.settings.announcement_text }}
               </div>
               {%- endunless -%}
-
             {%- unless block.settings.announcement_counter == blank -%}
             <div id="announcement_counter" class="announcement_counter  flex justify-start align-center" data-announcement-date="{{ block.settings.announcement_counter}}">
               <!-- <div class="announcement_number"><span class="digit">10</span><span class="announcement_text">D<span class="hide-small">ays</span></span></div>
@@ -143,6 +144,10 @@
             "label": "Select icon",
             "options": [
               {
+                "value": "none",
+                "label": "None"
+              },
+              {
                 "value": "truck",
                 "label": "Truck"
               },
@@ -179,7 +184,7 @@
                 "label": "Star"
               }
             ],
-            "default": "star"
+            "default": "none"
           },
           {
             "type": "text",

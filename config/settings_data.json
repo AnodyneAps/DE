@@ -493,15 +493,49 @@
           "announcement-0": {
             "type": "message",
             "settings": {
-              "announcement_text": "<p><a href=\"\/collections\/alle-produkte\" title=\"Alle Produkte\"><strong>FRÜHLINGSVERKAUF! <\/strong>Bis zu <span style=\"text-decoration:underline\">-50%<\/span> Rabatt<\/a><\/p>",
+              "announcement_text": "<p>Schneller Lieferung<\/p>",
+              "icon_selector": "truck",
               "announcement_counter": "",
+              "announcemen_link": "",
+              "announcement_end_text": ""
+            }
+          },
+          "c4676b39-a890-441a-b56f-27f60a8d0ad9": {
+            "type": "message",
+            "settings": {
+              "announcement_text": "<p>Kostenlose Rückgabe<\/p>",
+              "icon_selector": "return",
+              "announcement_counter": "",
+              "announcemen_link": "",
+              "announcement_end_text": ""
+            }
+          },
+          "82893cc1-5e92-46bd-a94d-7204271ffa01": {
+            "type": "message",
+            "settings": {
+              "announcement_text": "<p>30 Tage Rückgaberecht<\/p>",
+              "icon_selector": "smily",
+              "announcement_counter": "Nov 20, 2021 23:59:59",
+              "announcemen_link": "",
+              "announcement_end_text": ""
+            }
+          },
+          "1845e2c6-d475-470e-81ff-6bb64b635172": {
+            "type": "message",
+            "settings": {
+              "announcement_text": "<p>GRATIS Versand für Einkaufe über 59,00 €<\/p>",
+              "icon_selector": "checkmark",
+              "announcement_counter": "Nov 20, 2021 23:59:59",
               "announcemen_link": "",
               "announcement_end_text": ""
             }
           }
         },
         "block_order": [
-          "announcement-0"
+          "announcement-0",
+          "c4676b39-a890-441a-b56f-27f60a8d0ad9",
+          "82893cc1-5e92-46bd-a94d-7204271ffa01",
+          "1845e2c6-d475-470e-81ff-6bb64b635172"
         ],
         "settings": {
           "show_announcement": true,
@@ -887,7 +921,7 @@
           "image_position": "center center",
           "video_title": "<span class=\"first\">Anodyne®<\/span>",
           "text_size": "medium",
-          "text_description": "<p><strong>Verbessere jetzt die Haltung und lindere Schmerzen<\/strong><\/p>",
+          "text_description": "<p><strong>FRÜHLINGSVERKAUF! <\/strong>Bis zu <span style=\"text-decoration:underline\">-50%<\/span> Rabatt<\/p>",
           "text_description_size": "medium",
           "button_label": "Frauen",
           "button_link": "shopify:\/\/collections\/frauen",
