@@ -303,13 +303,13 @@
       "regular_price": "Normaler Preis",
       "include_taxes": "inkl. MwSt.",
       "shipping_policy_html": "zzgl. <a href=\"{{ link }}\">Versandkosten<\/a>",
-      "unit_price": "Stückpreis"
+      "unit_price": "Einzelpreis"
     },
     "product": {
       "sold_out": "Ausverkauft",
       "sold_out_html": "Ausverkauft",
       "unavailable": "Nicht verfügbar",
-      "quantity": "Einzelpreis",
+      "quantity": "Anzahl",
       "add_to_cart": "In den Warenkorb legen",
       "replace": "Ersetzen",
       "full_details": "Alle Einzelheiten",
@@ -334,7 +334,7 @@
       "tab-delivery": "  Versand und Retoure "
     },
     "radios": {
-      "radio-one": " Kaufe ",
+      "radio-one": "",
       "radio-save-amount": "Sie sparen "
     },
     "sizes": {
