@@ -523,7 +523,7 @@
           "1845e2c6-d475-470e-81ff-6bb64b635172": {
             "type": "message",
             "settings": {
-              "announcement_text": "<p>GRATIS Versand für Einkaufe über 59,00 €<\/p>",
+              "announcement_text": "<p>Gratis Versand für Einkaufe über 59,00 €<\/p>",
               "icon_selector": "checkmark",
               "announcement_counter": "Nov 20, 2021 23:59:59",
               "announcemen_link": "",
