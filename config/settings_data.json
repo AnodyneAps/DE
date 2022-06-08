@@ -106,6 +106,7 @@
     "dbtfy_social_discount": false,
     "dbtfy_sticky_addtocart": false,
     "synced_variant_image": false,
+    "dbtfy_trust_badge": true,
     "dbtfy_wish_list": false,
     "dbtfy_addtocart_animation_type": "pulse",
     "dbtfy_addtocart_animation_interval": 10,
@@ -1099,7 +1100,6 @@
         "settings": {
           "show_on_desktop": true,
           "show_on_mobile": true,
-          "trustpilot_imagetitle": "shopify:\/\/shop_images\/Trusted-shops-logo_225600cf-8cdd-4db8-9ac4-76195abb4b46.png",
           "title": "",
           "subtitle": "",
           "section_style": "section-blank",
