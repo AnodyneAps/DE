@@ -30,7 +30,7 @@
     "browsing_link": "shopify:\/\/collections\/alle-produkte",
     "zindex_drawer": "999",
     "cart_notes_enable": false,
-    "color_announcement_bg": "#ff891d",
+    "color_announcement_bg": "#252525",
     "color_nav_text": "#252525",
     "color_default": "#f7f7f7",
     "color_headings": "#252525",
@@ -281,9 +281,9 @@
             "type": "cart-item-upsell",
             "settings": {
               "dbtfy_cart_upsell_replace_item": "add",
-              "dbtfy_cart_specific_upsell_title": "<strong>Deal Der Woche!<\/strong> Erhalten Sie einen Geradehalter dazu. Jetzt sparen Sie €10,00",
+              "dbtfy_cart_specific_upsell_title": "Fügen Sie Ihrem BH ein Paar Trainingsleggings hinzu (wählen Sie Ihre normale Größe).",
               "dbtfy_cart_specific_upsell_product_trigger": "anodyne-bh",
-              "dbtfy_cart_specific_upsell_product_offer": "geradehalter-basic-1",
+              "dbtfy_cart_specific_upsell_product_offer": "alignme-capri-blau",
               "dbtfy_cart_specific_upsell_btn_title": "Ja, danke"
             }
           },
@@ -291,9 +291,9 @@
             "type": "cart-item-upsell",
             "settings": {
               "dbtfy_cart_upsell_replace_item": "add",
-              "dbtfy_cart_specific_upsell_title": "<strong>Deal Der Woche!<\/strong> Erhalten Sie einen Geradehalter dazu. Jetzt sparen Sie €10,00",
+              "dbtfy_cart_specific_upsell_title": "Ergänzen Sie Ihr Posture Shirt mit einem Paar Trainingsleggings (wählen Sie Ihre normale Größe).",
               "dbtfy_cart_specific_upsell_product_trigger": "womens-posture-shirt-schwarz",
-              "dbtfy_cart_specific_upsell_product_offer": "geradehalter-basic-1",
+              "dbtfy_cart_specific_upsell_product_offer": "alignme-capri-blau",
               "dbtfy_cart_specific_upsell_btn_title": "Ja, danke"
             }
           },
@@ -301,7 +301,7 @@
             "type": "cart-item-upsell",
             "settings": {
               "dbtfy_cart_upsell_replace_item": "add",
-              "dbtfy_cart_specific_upsell_title": "<strong>Deal Der Woche!<\/strong> Erhalten Sie einen Geradehalter dazu. Jetzt sparen Sie €10,00",
+              "dbtfy_cart_specific_upsell_title": "<strong>Deal Der Woche!<\/strong> Erhalten Sie einen Geradehalter dazu. Jetzt sparen Sie €6,00",
               "dbtfy_cart_specific_upsell_product_trigger": "mens-posture-shirt-schwarz",
               "dbtfy_cart_specific_upsell_product_offer": "geradehalter-basic-1",
               "dbtfy_cart_specific_upsell_btn_title": "Ja, danke"
@@ -311,9 +311,9 @@
             "type": "cart-item-upsell",
             "settings": {
               "dbtfy_cart_upsell_replace_item": "add",
-              "dbtfy_cart_specific_upsell_title": "<strong>Deal Der Woche!<\/strong> Erhalten Sie einen Geradehalter dazu. Jetzt sparen Sie €10,00",
+              "dbtfy_cart_specific_upsell_title": "Ergänzen Sie Ihr Posture Shirt mit einem Paar Trainingsleggings (wählen Sie Ihre normale Größe).",
               "dbtfy_cart_specific_upsell_product_trigger": "womens-posture-shirt-weiss",
-              "dbtfy_cart_specific_upsell_product_offer": "geradehalter-basic-1",
+              "dbtfy_cart_specific_upsell_product_offer": "alignme-capri-blau",
               "dbtfy_cart_specific_upsell_btn_title": "Ja, danke"
             }
           },
@@ -321,7 +321,7 @@
             "type": "cart-item-upsell",
             "settings": {
               "dbtfy_cart_upsell_replace_item": "add",
-              "dbtfy_cart_specific_upsell_title": "<strong>Deal Der Woche!<\/strong> Erhalten Sie einen Geradehalter dazu. Jetzt sparen Sie €10,00",
+              "dbtfy_cart_specific_upsell_title": "<strong>Deal Der Woche!<\/strong> Erhalten Sie einen Geradehalter dazu. Jetzt sparen Sie €6,00",
               "dbtfy_cart_specific_upsell_product_trigger": "mens-posture-shirt-weiss",
               "dbtfy_cart_specific_upsell_product_offer": "geradehalter-basic-1",
               "dbtfy_cart_specific_upsell_btn_title": "Ja, danke"
@@ -331,9 +331,9 @@
             "type": "cart-item-upsell",
             "settings": {
               "dbtfy_cart_upsell_replace_item": "add",
-              "dbtfy_cart_specific_upsell_title": "<strong>Deal Der Woche!<\/strong> Erhalten Sie einen Geradehalter dazu. Jetzt sparen Sie €10,00",
+              "dbtfy_cart_specific_upsell_title": "Ergänzen Sie Ihr Posture Shirt mit einem Paar Trainingsleggings (wählen Sie Ihre normale Größe).",
               "dbtfy_cart_specific_upsell_product_trigger": "womens-posture-shirt-zipper-schwarz",
-              "dbtfy_cart_specific_upsell_product_offer": "geradehalter-basic-1",
+              "dbtfy_cart_specific_upsell_product_offer": "alignme-capri-blau",
               "dbtfy_cart_specific_upsell_btn_title": "Ja, danke"
             }
           },
@@ -341,7 +341,7 @@
             "type": "cart-item-upsell",
             "settings": {
               "dbtfy_cart_upsell_replace_item": "add",
-              "dbtfy_cart_specific_upsell_title": "<strong>Deal Der Woche!<\/strong> Erhalten Sie einen Geradehalter dazu. Jetzt sparen Sie €10,00",
+              "dbtfy_cart_specific_upsell_title": "<strong>Deal Der Woche!<\/strong> Erhalten Sie einen Geradehalter dazu. Jetzt sparen Sie €6,00",
               "dbtfy_cart_specific_upsell_product_trigger": "mens-posture-shirt-zipper-schwarz",
               "dbtfy_cart_specific_upsell_product_offer": "geradehalter-basic-1",
               "dbtfy_cart_specific_upsell_btn_title": "Ja, danke"
@@ -351,9 +351,9 @@
             "type": "cart-item-upsell",
             "settings": {
               "dbtfy_cart_upsell_replace_item": "add",
-              "dbtfy_cart_specific_upsell_title": "<strong>Deal Der Woche!<\/strong> Erhalten Sie einen Geradehalter dazu. Jetzt sparen Sie €10,00",
+              "dbtfy_cart_specific_upsell_title": "Ergänzen Sie Ihr Posture Shirt mit einem Paar Trainingsleggings (wählen Sie Ihre normale Größe).",
               "dbtfy_cart_specific_upsell_product_trigger": "womens-posture-shirt-zipper-weiss",
-              "dbtfy_cart_specific_upsell_product_offer": "geradehalter-basic-1",
+              "dbtfy_cart_specific_upsell_product_offer": "alignme-capri-blau",
               "dbtfy_cart_specific_upsell_btn_title": "Ja, danke"
             }
           },
@@ -361,7 +361,7 @@
             "type": "cart-item-upsell",
             "settings": {
               "dbtfy_cart_upsell_replace_item": "add",
-              "dbtfy_cart_specific_upsell_title": "<strong>Deal Der Woche!<\/strong> Erhalten Sie einen Geradehalter dazu. Jetzt sparen Sie €10,00",
+              "dbtfy_cart_specific_upsell_title": "<strong>Deal Der Woche!<\/strong> Erhalten Sie einen Geradehalter dazu. Jetzt sparen Sie €6,00",
               "dbtfy_cart_specific_upsell_product_trigger": "mens-posture-shirt-zipper-weiss",
               "dbtfy_cart_specific_upsell_product_offer": "geradehalter-basic-1",
               "dbtfy_cart_specific_upsell_btn_title": "Ja, danke"
@@ -371,9 +371,9 @@
             "type": "cart-item-upsell",
             "settings": {
               "dbtfy_cart_upsell_replace_item": "add",
-              "dbtfy_cart_specific_upsell_title": "<strong>Deal Der Woche!<\/strong> Erhalten Sie einen Geradehalter dazu. Jetzt sparen Sie €10,00",
+              "dbtfy_cart_specific_upsell_title": "Ergänzen Sie Ihr Posture Shirt mit einem Paar Trainingsleggings (wählen Sie Ihre normale Größe).",
               "dbtfy_cart_specific_upsell_product_trigger": "womens-posture-shirt-mint",
-              "dbtfy_cart_specific_upsell_product_offer": "geradehalter-basic-1",
+              "dbtfy_cart_specific_upsell_product_offer": "alignme-capri-blau",
               "dbtfy_cart_specific_upsell_btn_title": "Ja, danke"
             }
           },
@@ -381,9 +381,9 @@
             "type": "cart-item-upsell",
             "settings": {
               "dbtfy_cart_upsell_replace_item": "add",
-              "dbtfy_cart_specific_upsell_title": "<strong>Deal Der Woche!<\/strong> Erhalten Sie einen Geradehalter dazu. Jetzt sparen Sie €10,00",
+              "dbtfy_cart_specific_upsell_title": "Ergänzen Sie Ihr Posture Shirt mit einem Paar Trainingsleggings (wählen Sie Ihre normale Größe).",
               "dbtfy_cart_specific_upsell_product_trigger": "womens-posture-shirt-nude",
-              "dbtfy_cart_specific_upsell_product_offer": "geradehalter-basic-1",
+              "dbtfy_cart_specific_upsell_product_offer": "alignme-capri-blau",
               "dbtfy_cart_specific_upsell_btn_title": "Ja, danke"
             }
           },
@@ -391,9 +391,9 @@
             "type": "cart-item-upsell",
             "settings": {
               "dbtfy_cart_upsell_replace_item": "add",
-              "dbtfy_cart_specific_upsell_title": "<strong>Deal Der Woche!<\/strong> Erhalten Sie einen Geradehalter dazu. Jetzt sparen Sie €10,00",
+              "dbtfy_cart_specific_upsell_title": "Ergänzen Sie Ihr Posture Shirt mit einem Paar Trainingsleggings (wählen Sie Ihre normale Größe).",
               "dbtfy_cart_specific_upsell_product_trigger": "womens-posture-shirt-zipper-nude",
-              "dbtfy_cart_specific_upsell_product_offer": "geradehalter-basic-1",
+              "dbtfy_cart_specific_upsell_product_offer": "alignme-capri-blau",
               "dbtfy_cart_specific_upsell_btn_title": "Ja, danke"
             }
           },
@@ -401,7 +401,7 @@
             "type": "cart-item-upsell",
             "settings": {
               "dbtfy_cart_upsell_replace_item": "add",
-              "dbtfy_cart_specific_upsell_title": "<strong>Deal Der Woche!<\/strong> Erhalten Sie einen Geradehalter dazu. Jetzt sparen Sie €10,00",
+              "dbtfy_cart_specific_upsell_title": "<strong>Deal Der Woche!<\/strong> Erhalten Sie einen Geradehalter dazu. Jetzt sparen Sie €6,00",
               "dbtfy_cart_specific_upsell_product_trigger": "mens-posture-shirt-blau",
               "dbtfy_cart_specific_upsell_product_offer": "geradehalter-basic-1",
               "dbtfy_cart_specific_upsell_btn_title": "Ja, danke"
@@ -411,9 +411,9 @@
             "type": "cart-item-upsell",
             "settings": {
               "dbtfy_cart_upsell_replace_item": "add",
-              "dbtfy_cart_specific_upsell_title": "<strong>Deal Der Woche!<\/strong> Erhalten Sie einen Geradehalter dazu. Jetzt sparen Sie €10,00",
+              "dbtfy_cart_specific_upsell_title": "Ergänzen Sie Ihr Posture Shirt mit einem Paar Trainingsleggings (wählen Sie Ihre normale Größe).",
               "dbtfy_cart_specific_upsell_product_trigger": "womens-posture-shirt-blau",
-              "dbtfy_cart_specific_upsell_product_offer": "geradehalter-basic-1",
+              "dbtfy_cart_specific_upsell_product_offer": "alignme-capri-blau",
               "dbtfy_cart_specific_upsell_btn_title": "ja, danke"
             }
           }
@@ -494,7 +494,7 @@
           "announcement-0": {
             "type": "message",
             "settings": {
-              "announcement_text": "<p>Klicken Sie hier, um <span style=\"text-decoration:underline\">30% Rabatt<\/span> zu erhalten<\/p>",
+              "announcement_text": "<p>Klicken Sie hier, um <span style=\"text-decoration:underline\">10% Rabatt<\/span> zu erhalten<\/p>",
               "icon_selector": "none",
               "announcement_counter": "",
               "announcement_link": "shopify:\/\/pages\/rabattcode",
@@ -702,7 +702,7 @@
         "settings": {
           "show_social_media": false,
           "social_title": "Follow-us on social media!",
-          "show_payment_icons": true,
+          "show_payment_icons": false,
           "show_shopify_footer": false,
           "show_debutify_footer": false,
           "custom_credential": "<p>Anodyne, Flughafenallee 26 \/ 6. OG, 28199 Bremen, Deutschland. USt-IdNr: DE305695739. <\/p>"
