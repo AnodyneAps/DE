@@ -705,7 +705,9 @@
           "show_payment_icons": false,
           "show_shopify_footer": false,
           "show_debutify_footer": false,
-          "custom_credential": "<p>Anodyne, Flughafenallee 26 \/ 6. OG, 28199 Bremen, Deutschland. USt-IdNr: DE305695739. <\/p>"
+          "custom_credential": "<p>Anodyne, Flughafenallee 26 \/ 6. OG, 28199 Bremen, Deutschland. USt-IdNr: DE305695739. <\/p>",
+          "bottom_counter_text": "Wir versenden Ihr Paket in",
+          "show_bottom_counter": true
         }
       },
       "product-template": {
