@@ -597,13 +597,16 @@
                           {%- render "dbtfy-inventory-quantity", product: product -%}
                           {%- if section.settings.quantity_enabled -%}
                                  <!-- Quantity selecter check start -->
-
-                                 {% for tag in product.tags %}
-                                 {% if tag contains 'posture_shirt'%}     
-                                 {%- assign hide_quantity_box = false -%}
+                                 {% for tagm in product.tags %}
+                                 {% if tagm contains 'MINT'%}     
+                                 {%- render "quantity-selector", type: "product", id: quantity_id -%}
                                  {% endif %}
                                  {% endfor %}
-                                 {%- if  product.handle ==  "geradehalter-comfort" -%}
+                                 {% if collection.handle == "posture-shirt" or product.handle == "womens-posture-shirt" or product.handle == "mens-posture-shirt"  %}
+                                 {%- assign hide_quantity_box = false -%}
+                                 {% elsif product.handle contains "womens-posture-shirt" or product.handle contains "mens-posture-shirt" %}
+                                 {%- assign hide_quantity_box = false -%}
+                                 {%- elsif  product.handle ==  "geradehalter-comfort" -%}
                                          {%- assign hide_quantity_box = false -%}
                                  {%- elsif  product.handle ==  "geradehalter-basic" -%}
                                          {%- assign hide_quantity_box = false -%}
